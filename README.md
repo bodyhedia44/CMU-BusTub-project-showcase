@@ -15,7 +15,7 @@ This repository contains my implementation of [Carnegie Mellon University's 15-4
 | # | Project | Component | Status | Writeup |
 |---|---------|-----------|--------|---------|
 | 1 | [Buffer Pool Manager](p1-buffer-pool-manager.md) | Memory management, caching, disk I/O | ✅ Complete | [Details →](p1-buffer-pool-manager.md) |
-| 2 | B+ Tree Index | Concurrent index structure | 🔲 Upcoming | — |
+| 2 | [B+ Tree Index](p2-b-plus-tree.md) | Concurrent index structure | ✅ Complete | [Details →](p2-b-plus-tree.md)|
 | 3 | Query Execution | Volcano-model operators, joins, aggregations | 🔲 Upcoming | — |
 | 4 | Concurrency Control | MVCC, transaction isolation | 🔲 Upcoming | — |
 
